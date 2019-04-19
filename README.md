@@ -1,2 +1,0 @@
-# riskfirst
-demo react project
